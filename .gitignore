@@ -1,0 +1,6 @@
+# Model weights (GitHub file size limit is 100 MB)
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
